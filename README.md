@@ -1,5 +1,5 @@
 # HTML-CSS-VideoBG
-A responsive HTML, CSS landing with a video background. 
+A responsive HTML, CSS landing page with a video background. 
 
 ![travel](https://user-images.githubusercontent.com/75640953/104227753-e1b87f80-546f-11eb-893f-14bfa8610f25.gif)
 
